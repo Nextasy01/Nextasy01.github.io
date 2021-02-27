@@ -9,3 +9,18 @@ h1,h2{
 	font-weight: bold;
 	color: #016255;
 }
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
